@@ -3,10 +3,10 @@
 	padding: 0;
 }
 html, body{
+	background-color: #7d8f55;
 	min-height: 100%;
 }
 body{
-	background-color: #7d8f55;
 	background-image: url('/img/panhandle-greenfade.jpg');
 	background-size: cover;
 	background-position: center center;
