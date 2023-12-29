@@ -11,6 +11,7 @@ body{
 	background-image: url('/img/panhandle-greenfade.jpg');
 	background-size: cover;
 	background-position: center center;
+	background-attachment: fixed;
 	color: #111;
 	color: rgba(20,20,20,0.8);
 	font-family: 'Open Sans Condensed', Helvetica, Arial, sans-serif;
